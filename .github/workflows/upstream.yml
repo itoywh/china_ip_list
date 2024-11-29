@@ -1,9 +1,9 @@
 name: China IP list
 
 on: 
-  # push: 
-  #   branches:
-  #     - master
+   push: 
+     branches:
+       - master
   watch:
     types: started
   #schedule:
